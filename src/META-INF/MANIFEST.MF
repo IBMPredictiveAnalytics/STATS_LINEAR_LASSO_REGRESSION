@@ -1,4 +1,4 @@
-Name: STATS LINEAR LASSO REGRESSION
+Name: llr
 Display-Name: Linear Lasso Regression
 Dialog-Specs: dialogLasso.cfe
 Code-Files: llr_wrapper.py

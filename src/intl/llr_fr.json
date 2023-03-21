@@ -2,7 +2,7 @@
   "procedure.title": "Régression du lasso linéaire",
   "procedure.description": "Correspond aux modèles de régression linéaire régularisée par la perte L1 utilisant la classe Python sklearn.linear_model.Lasso pour une variable dépendante sur une ou plusieurs variables indépendantes, et inclut des modes optionnels pour afficher les tracés de trace et sélectionner la valeur de l'hyperparamètre alpha en fonction de la validation croisée.",
   "best_model_summary": "Récapitulatif du meilleur modèle",
-  "trace_results": "Résultats de la trace Lasso",
+  "trace_results": "Résultats de trace Lasso",
   "model_summary": "Récapitulatif du modèle",
   "dependent_variable": "Variable dépendante : {0}",
   "model": "Modèle : {0}",

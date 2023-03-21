@@ -2,7 +2,7 @@
   "procedure.title": "Regresión lineal de Lasso",
   "procedure.description": "Se ajusta a los modelos de regresión lineal regularizados de pérdidas de L1 mediante la clase de Python sklearn.linear_model.Lasso para una variable dependiente en una o más variables independientes e incluye modalidades opcionales para visualizar gráficos de rastreo y para seleccionar el valor del hiperparámetro alfa en función de la validación cruzada.",
   "best_model_summary": "Resumen de mejores modelos",
-  "trace_results": "Resultados de rastreo de Lasso",
+  "trace_results": "Resultados de rastreo LASSO",
   "model_summary": "Resumen de modelos",
   "dependent_variable": "Variable dependiente: {0}",
   "model": "Modelo: {0}",

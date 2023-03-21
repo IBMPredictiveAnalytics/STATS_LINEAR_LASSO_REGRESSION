@@ -2,7 +2,7 @@
   "procedure.title": "선형 라소 회귀분석",
   "procedure.description": "Python sklearn.linear_model을 사용하여 L1 손실 정규화된 선형 회귀 모델을 맞게 합니다. Lasso 클래스는 하나 이상의 독립 변수에 대한 종속 변수 클래스이며, 추적도를 표시하고 교차 검증을 기반으로 알파 초매개변수 값을 선택하는 선택적 모드를 포함합니다.",
   "best_model_summary": "최적 모형 요약",
-  "trace_results": "마지막으로 추적 결과",
+  "trace_results": "Lasso 추적 결과",
   "model_summary": "모델 요약",
   "dependent_variable": "종속변수: {0}",
   "model": "모델: {0}",

@@ -2,7 +2,7 @@
   "procedure.title": "Regressione Lasso lineare",
   "procedure.description": "Si adatta a modelli di regressione lineare regolarizzati di perdita L1 utilizzando la classe Python sklearn.linear_model.Lasso per una variabile dipendente su una o più variabili indipendenti, e include le modalità opzionali per visualizzare i grafici di traccia e per selezionare il valore di iperparametro alfa basato sulla convalida incrociata.",
   "best_model_summary": "Riepilogo del modello migliore",
-  "trace_results": "Risultati traccia del lazo",
+  "trace_results": "Risultati traccia Lasso",
   "model_summary": "Riepilogo del modello",
   "dependent_variable": "Variabile dipendente: {0}",
   "model": "Modello: {0}",
